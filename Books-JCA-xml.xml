@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Business_Books_Read_in_2017>
+    <Book>
+        <Title>The Power of Habit- Why We Do What We Do in Life and Business</Title>
+        <Author>Charles Duhigg</Author>
+        <Author />
+		<ISBN>978-0812981605</ISBN>
+        <Publisher>Random House Trade Paperbacks</Publisher>
+        <Published>01/07/2014</Published>
+        <Pages>372</Pages>
+    </Book>
+    <Book>
+        <Title>Radical Candor- Be a Kick-Ass Boss Without Losing Your Humanity</Title>
+        <Author>Kim Scott</Author>
+        <Author />
+		<ISBN>978-1250103505</ISBN>
+        <Publisher>St. Martin&#39;s Press</Publisher>
+        <Published>03/14/2017</Published>
+        <Pages>272</Pages>
+    </Book>
+    <Book>
+        <Title>Switch- How to Change Things When Change Is Hard</Title>
+        <Author>Chip Heath</Author>
+		<Author>Dan Heath</Author>
+       	<ISBN>978-0385528757</ISBN>
+        <Publisher>Crown Business</Publisher>
+        <Published>02/16/2010</Published>
+        <Pages>305</Pages>
+    </Book>
+</Business_Books_Read_in_2017>
